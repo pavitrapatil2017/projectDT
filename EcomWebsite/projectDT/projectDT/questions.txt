@@ -1,0 +1,17 @@
+max cdn
+response
+bootstrap
+html
+css--types of 
+columns--12
+colspan
+rowspan
+static resources loading
+dynamic resources loading
+
+tomorrows session
+create new 2 pages--for register and login 
+create another two jsps and link to button
+hyperlink
+spring mvc
+

@@ -1,0 +1,41 @@
+<!--  
+
+<div class="header">
+   <img src="D:\\eclipse\\EcomWebsite\\images\\Logo.jpeg" class="img-rounded" alt="Cinque Terre" width="304" height="236"/>
+   
+     
+                                       
+  <div class="dropdown">
+    <button class="btn btn-primary dropdown-toggle" type="button" data-toggle="dropdown">Product Category
+    <span class="caret"></span></button>
+    <ul class="dropdown-menu">
+      <li><a href="#">Sarri</a></li>
+      <li><a href="#">Dresses</a></li>
+      <li><a href="#">Jewelery</a></li>
+      <li><a href="#">Costumes</a></li>
+      
+    </ul>
+  </div>
+
+    
+  
+
+<div class="blank">
+<br/>
+<br/>
+<br/>
+    </div>
+    
+
+<div class="scrolling">
+scrolling
+    </div>
+    
+    <div class="img">
+    images
+    </div>
+    
+    <div class="footer">
+    footer
+    </div>
+    -->
